@@ -1,2 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hi, This is Second Message!");
+Console.WriteLine("Hi, Second Message!");
